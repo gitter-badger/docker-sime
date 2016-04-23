@@ -1,3 +1,10 @@
+# SIME stack
+#
+# This image includes the following tools
+# - Ubuntu 14.04
+#
+# Version 1.0
+
 FROM ubuntu:14.04
 MAINTAINER Pascal Obstetar <pascal.obstetar@gmail.com>
 
